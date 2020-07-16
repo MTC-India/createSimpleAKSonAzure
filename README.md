@@ -24,7 +24,7 @@
 	
 4. Run the below command to deploy a sample AKS on Azure
 
-	    bash createSimpleAKSonAzure.ps1
+	    createSimpleAKSonAzure.ps1
 	
 5. Once done, run the below commands to check the configuration. Also check the portal for the deployment.
 
